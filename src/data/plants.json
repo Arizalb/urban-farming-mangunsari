@@ -1,0 +1,356 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Cabai",
+      "scientificName": "Capsicum frutescens",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "3-4 bulan",
+      "description": "Tanaman cabai rawit cocok untuk urban farming karena dapat ditanam dalam pot dan memiliki produktivitas tinggi.",
+      "plantingSteps": [
+        "Gunakan pot dengan diameter minimal 30 cm",
+        "Letakkan di area yang mendapat sinar matahari penuh",
+        "Siram 2-3 kali seminggu",
+        "Berikan pupuk organik sebulan sekali"
+      ],
+      "imageUrl": "/images/cabai.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bawang Merah",
+      "scientificName": "Allium cepa",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "2-3 bulan",
+      "description": "Bawang merah mudah ditanam dan cocok untuk berbagai jenis tanah. Dapat ditanam di kebun atau pot besar.",
+      "plantingSteps": [
+        "Siapkan tanah yang gembur dan subur",
+        "Tanam bibit bawang dengan jarak 10 cm",
+        "Siram setiap hari secara teratur",
+        "Berikan pupuk kompos tiap dua minggu"
+      ],
+      "imageUrl": "/images/bawang-merah.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tomat",
+      "scientificName": "Solanum lycopersicum",
+      "category": "Sayuran",
+      "difficulty": "Sedang",
+      "harvestTime": "2-3 bulan",
+      "description": "Tanaman tomat cocok untuk urban farming, dapat ditanam di pot atau kebun dengan sinar matahari yang cukup.",
+      "plantingSteps": [
+        "Gunakan pot dengan diameter minimal 25 cm",
+        "Letakkan di area dengan sinar matahari penuh",
+        "Siram setiap hari pagi dan sore",
+        "Berikan penyangga untuk batang tanaman"
+      ],
+      "imageUrl": "/images/tomat.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Terong",
+      "scientificName": "Solanum melongena",
+      "category": "Sayuran",
+      "difficulty": "Sedang",
+      "harvestTime": "3-4 bulan",
+      "description": "Tanaman terong ideal untuk ditanam di kebun atau pot besar dengan drainage yang baik.",
+      "plantingSteps": [
+        "Gunakan tanah yang kaya nutrisi",
+        "Berikan jarak tanam minimal 30 cm",
+        "Siram secara teratur setiap pagi",
+        "Berikan pupuk organik tiap bulan"
+      ],
+      "imageUrl": "/images/terong.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pepaya",
+      "scientificName": "Carica papaya",
+      "category": "Buah-buahan",
+      "difficulty": "Sedang",
+      "harvestTime": "6-12 bulan",
+      "description": "Pepaya adalah tanaman buah yang tumbuh cepat dan membutuhkan lahan yang cukup luas.",
+      "plantingSteps": [
+        "Siapkan lubang tanam dengan kedalaman 30 cm",
+        "Tanam bibit pepaya dengan jarak 1-2 meter",
+        "Siram secara teratur 2 kali sehari",
+        "Berikan pupuk kandang tiap 2 bulan"
+      ],
+      "imageUrl": "/images/pepaya.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Singkong",
+      "scientificName": "Manihot esculenta",
+      "category": "Umbi-umbian",
+      "difficulty": "Mudah",
+      "harvestTime": "8-12 bulan",
+      "description": "Singkong adalah tanaman umbi yang mudah tumbuh dan cocok di berbagai jenis tanah.",
+      "plantingSteps": [
+        "Tanam batang singkong di tanah gembur",
+        "Pastikan jarak tanam minimal 50 cm",
+        "Siram saat tanah terlihat kering",
+        "Berikan pupuk kompos saat masa pertumbuhan"
+      ],
+      "imageUrl": "/images/singkong.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kangkung",
+      "scientificName": "Ipomoea aquatica",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "3-4 minggu",
+      "description": "Kangkung adalah sayuran air yang mudah ditanam dan tumbuh cepat, cocok untuk hidroponik atau tanah basah.",
+      "plantingSteps": [
+        "Taburkan benih di media tanah basah atau air",
+        "Pastikan media tetap lembab",
+        "Berikan pupuk cair organik setiap minggu",
+        "Panen saat tinggi tanaman mencapai 15-20 cm"
+      ],
+      "imageUrl": "/images/kangkung.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Talas",
+      "scientificName": "Colocasia esculenta",
+      "category": "Umbi-umbian",
+      "difficulty": "Sedang",
+      "harvestTime": "6-12 bulan",
+      "description": "Talas merupakan tanaman umbi yang tumbuh baik di tanah lembab dengan drainase yang baik.",
+      "plantingSteps": [
+        "Siapkan tanah yang subur dan lembab",
+        "Tanam umbi dengan kedalaman 10-15 cm",
+        "Siram secara teratur untuk menjaga kelembapan",
+        "Berikan pupuk organik setiap bulan"
+      ],
+      "imageUrl": "/images/talas.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Serai",
+      "scientificName": "Cymbopogon citratus",
+      "category": "Herbal",
+      "difficulty": "Mudah",
+      "harvestTime": "4-6 bulan",
+      "description": "Serai adalah tanaman herbal yang mudah ditanam dan sering digunakan dalam masakan dan pengobatan tradisional.",
+      "plantingSteps": [
+        "Tanam batang serai di tanah yang gembur",
+        "Letakkan di area dengan sinar matahari penuh",
+        "Siram setiap hari untuk menjaga kelembapan",
+        "Berikan pupuk organik setiap dua minggu"
+      ],
+      "imageUrl": "/images/serai.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Selada",
+      "scientificName": "Lactuca sativa",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "4-6 minggu",
+      "description": "Selada merupakan tanaman sayur daun yang cocok untuk hidroponik maupun tanah biasa.",
+      "plantingSteps": [
+        "Gunakan media tanam yang kaya nutrisi",
+        "Taburkan benih di permukaan tanah",
+        "Siram secara teratur untuk menjaga kelembapan",
+        "Panen saat daun mencapai ukuran optimal"
+      ],
+      "imageUrl": "/images/selada.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Seledri",
+      "scientificName": "Apium graveolens",
+      "category": "Sayuran",
+      "difficulty": "Sedang",
+      "harvestTime": "2-3 bulan",
+      "description": "Seledri adalah tanaman daun yang populer digunakan dalam masakan dan membutuhkan perhatian ekstra saat tumbuh.",
+      "plantingSteps": [
+        "Gunakan tanah yang gembur dan kaya humus",
+        "Tanam benih dengan jarak 5-10 cm",
+        "Siram setiap hari pagi dan sore",
+        "Berikan pupuk cair organik secara rutin"
+      ],
+      "imageUrl": "/images/seledri.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Bayam",
+      "scientificName": "Amaranthus spp.",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "3-4 minggu",
+      "description": "Bayam adalah tanaman sayur daun yang cepat tumbuh dan cocok untuk pemula.",
+      "plantingSteps": [
+        "Taburkan benih langsung di tanah atau pot",
+        "Pastikan tanah tetap lembab",
+        "Berikan pupuk organik cair setiap minggu",
+        "Panen saat daun muda sudah cukup besar"
+      ],
+      "imageUrl": "/images/bayam.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Sawi Pagoda",
+      "scientificName": "Brassica rapa var. narinosa",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "4-6 minggu",
+      "description": "Sawi Pagoda memiliki bentuk unik dan cocok untuk taman kecil atau urban farming.",
+      "plantingSteps": [
+        "Tanam benih di tanah yang subur",
+        "Letakkan di area dengan sinar matahari cukup",
+        "Siram secara teratur pagi dan sore",
+        "Berikan pupuk cair setiap dua minggu"
+      ],
+      "imageUrl": "/images/sawi-pagoda.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Jahe",
+      "scientificName": "Zingiber officinale",
+      "category": "Herbal",
+      "difficulty": "Sedang",
+      "harvestTime": "8-10 bulan",
+      "description": "Jahe adalah tanaman herbal yang membutuhkan tanah subur dan lembab untuk tumbuh optimal.",
+      "plantingSteps": [
+        "Tanam rimpang jahe di tanah gembur",
+        "Pastikan tanah tetap lembab tapi tidak tergenang air",
+        "Letakkan di area dengan sinar matahari sedang",
+        "Berikan pupuk organik setiap bulan"
+      ],
+      "imageUrl": "/images/jahe.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Lidah Buaya",
+      "scientificName": "Aloe vera",
+      "category": "Herbal",
+      "difficulty": "Mudah",
+      "harvestTime": "8-10 bulan",
+      "description": "Lidah buaya adalah tanaman herbal serbaguna yang dapat tumbuh baik di pot maupun tanah dengan perawatan minimal.",
+      "plantingSteps": [
+        "Gunakan pot dengan drainase yang baik",
+        "Tanam di tanah pasir yang gembur",
+        "Letakkan di tempat dengan sinar matahari cukup",
+        "Siram seminggu sekali atau saat tanah kering"
+      ],
+      "imageUrl": "/images/lidah-buaya.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Parijoto",
+      "scientificName": "Medinilla speciosa",
+      "category": "Buah-buahan",
+      "difficulty": "Sedang",
+      "harvestTime": "12-18 bulan",
+      "description": "Parijoto adalah tanaman buah unik yang sering digunakan dalam tradisi dan memiliki nilai estetik tinggi.",
+      "plantingSteps": [
+        "Tanam di tanah yang subur dan kaya humus",
+        "Pastikan mendapatkan sinar matahari tidak langsung",
+        "Siram setiap pagi untuk menjaga kelembapan tanah",
+        "Berikan pupuk organik setiap bulan"
+      ],
+      "imageUrl": "/images/parijoto.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kunyit",
+      "scientificName": "Curcuma longa",
+      "category": "Herbal",
+      "difficulty": "Mudah",
+      "harvestTime": "8-10 bulan",
+      "description": "Kunyit adalah tanaman rimpang yang bermanfaat sebagai bumbu dapur dan obat herbal.",
+      "plantingSteps": [
+        "Siapkan tanah gembur yang kaya bahan organik",
+        "Tanam rimpang kunyit dengan kedalaman 5-7 cm",
+        "Siram secara teratur untuk menjaga kelembapan",
+        "Berikan pupuk kompos setiap bulan"
+      ],
+      "imageUrl": "/images/kunyit.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Kencur",
+      "scientificName": "Kaempferia galanga",
+      "category": "Herbal",
+      "difficulty": "Mudah",
+      "harvestTime": "10-12 bulan",
+      "description": "Kencur adalah tanaman herbal dengan aroma khas yang sering digunakan dalam pengobatan tradisional.",
+      "plantingSteps": [
+        "Gunakan tanah gembur dengan drainase baik",
+        "Tanam rimpang pada kedalaman 5-10 cm",
+        "Siram 2-3 kali seminggu untuk menjaga kelembapan",
+        "Berikan pupuk kandang setiap bulan"
+      ],
+      "imageUrl": "/images/kencur.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Sawi",
+      "scientificName": "Brassica juncea",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "4-6 minggu",
+      "description": "Sawi adalah sayuran daun yang populer dan mudah ditanam, baik di tanah maupun hidroponik.",
+      "plantingSteps": [
+        "Tanam benih di media yang subur",
+        "Pastikan mendapat sinar matahari cukup",
+        "Siram setiap pagi dan sore",
+        "Berikan pupuk organik cair setiap minggu"
+      ],
+      "imageUrl": "/images/sawi.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Kumis Kucing",
+      "scientificName": "Orthosiphon aristatus",
+      "category": "Herbal",
+      "difficulty": "Sedang",
+      "harvestTime": "3-4 bulan",
+      "description": "Kumis Kucing adalah tanaman herbal yang dikenal karena khasiatnya untuk kesehatan ginjal.",
+      "plantingSteps": [
+        "Siapkan tanah yang kaya bahan organik",
+        "Tanam batang kumis kucing dengan kedalaman 5 cm",
+        "Letakkan di area dengan sinar matahari cukup",
+        "Siram setiap hari secara teratur"
+      ],
+      "imageUrl": "/images/kumis-kucing.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Lavender",
+      "scientificName": "Lavandula spp.",
+      "category": "Herbal",
+      "difficulty": "Sedang",
+      "harvestTime": "8-12 bulan",
+      "description": "Lavender adalah tanaman herbal dengan aroma khas yang sering digunakan sebagai pengusir nyamuk alami.",
+      "plantingSteps": [
+        "Gunakan tanah berpasir dengan drainase baik",
+        "Letakkan di area dengan sinar matahari penuh",
+        "Siram sedikit untuk menjaga kelembapan",
+        "Berikan pupuk cair organik setiap bulan"
+      ],
+      "imageUrl": "/images/lavender.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Selada Merah",
+      "scientificName": "Lactuca sativa var. crispa",
+      "category": "Sayuran",
+      "difficulty": "Mudah",
+      "harvestTime": "4-6 minggu",
+      "description": "Selada Merah adalah varietas selada yang memiliki warna menarik dan kaya nutrisi.",
+      "plantingSteps": [
+        "Taburkan benih di media tanah gembur",
+        "Jaga kelembapan media dengan menyiram secara teratur",
+        "Pastikan mendapat sinar matahari cukup",
+        "Panen saat daun mencapai ukuran optimal"
+      ],
+      "imageUrl": "/images/selada-merah.jpg"
+    }
+  ]
+}

@@ -93,8 +93,8 @@
       <v-row>
         <v-col class="text-center">
           <p class="text-caption">
-            &copy; {{ new Date().getFullYear() }} Urban Farming Mangunsari. Hak
-            Cipta Dilindungi.
+            &copy; {{ new Date().getFullYear() }} Urban Farming PKK Mangunsari.
+            Hak Cipta Dilindungi.
           </p>
         </v-col>
       </v-row>
@@ -111,17 +111,17 @@ export default {
         {
           name: "Facebook",
           icon: "mdi-facebook",
-          link: "https://facebook.com/mangunsari",
+          link: "#",
         },
         {
           name: "Instagram",
           icon: "mdi-instagram",
-          link: "https://instagram.com/mangunsari",
+          link: "https://instagram.com/kelurahan_mangunsari",
         },
         {
           name: "Twitter",
           icon: "mdi-twitter",
-          link: "https://twitter.com/mangunsari",
+          link: "#",
         },
       ],
       contributors: [
@@ -134,7 +134,7 @@ export default {
           icon: "mdi-account-group",
         },
         {
-          name: "KKN Universitas IVET",
+          name: "KKN Universitas IVET 2025",
           icon: "mdi-school",
         },
       ],
@@ -144,11 +144,11 @@ export default {
           icon: "mdi-map-marker",
         },
         {
-          info: "+62 857-2626-XXXX",
+          info: "024 76922083",
           icon: "mdi-phone",
         },
         {
-          info: "mangunsari@gmail.com",
+          info: "mangunsarihebat@gmail.com",
           icon: "mdi-email",
         },
       ],
